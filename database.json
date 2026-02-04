@@ -1,14 +1,18 @@
-[
-    {
-        "username": "keving-4181276",
-        "reason": "Retrun Scam",
-        "proofLink": "https://google.pt/",
-        "timestamp": "2026-02-03T00:00:00.000Z"
-    },
-    {
-        "username": "orlandom-431213724",
-        "reason": "test",
-        "proofLink": "https://google.pt/",
-        "timestamp": "2026-06-03T00:00:00.000Z"
-    }
-]
+{
+    "wallapop": [
+        {
+            "username": "keving-4181276",
+            "reason": "Retrun Scam",
+            "proofLink": "https://example.com/test-proof-link",
+            "timestamp": "2026-02-03T00:00:00.000Z"
+        }
+    ],
+    "vinted": [
+        {
+            "username": "137621081",
+            "reason": "Vinted test user (Example)",
+            "proofLink": "https://www.vinted.pt/member/137621081",
+            "timestamp": "2026-02-04T19:30:00Z"
+        }
+    ]
+}
